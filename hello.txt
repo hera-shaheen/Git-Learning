@@ -3,3 +3,7 @@ Hello Git!
 My name is Hera Shaheen.
 
 This is my first Git repository.
+Today I made my first Git commit.
+
+I am becoming an AI Engineer.
+hi
